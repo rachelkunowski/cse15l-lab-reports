@@ -8,14 +8,14 @@
 ![Image](https://paspahang.org/wp-content/uploads/2019/03/get-the-marvelous-funny-looking-cat-memes-of-funny-looking-cat-memes.jpg)
 ---
 *A list of bread I enjoy*
-* Milk bread
-* Sourdough bread
-* Brioche 
+*Milk bread
+*Sourdough bread
+*Brioche 
 ---
 *A list of things I should pick up from the store*
-1. Milk
-2. Cereal
-3. Command strips
+1.Milk
+2.Cereal
+3.Command strips
 ---
 `System.out.println("Hello, World")`
 
