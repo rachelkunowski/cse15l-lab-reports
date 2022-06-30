@@ -23,3 +23,9 @@
 4. Batteries
 ---
 `System.out.println("Hello, World")`
+
+```
+# code block
+System.out.println("Hello, Mars")
+System.out.println("Hello, Jupiter")
+```
