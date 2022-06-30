@@ -15,11 +15,11 @@
 * Sourdough bread
 * Brioche 
 * Probably more I don't know the name of 
->
+---
 *A list of things I should pick up from the store*
 1. Milk
 2. Cereal
 3. Command strips
 4. Batteries
->
+---
 `System.out.println("Hello, World")`
