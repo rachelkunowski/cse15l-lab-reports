@@ -14,7 +14,6 @@
 1. Milk
 2. Cereal
 3. Command strips
-4. Batteries
 ---
 `System.out.println("Hello, World")`
 
