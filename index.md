@@ -5,4 +5,7 @@
 * CSE 12/CSE15L *
 [Link] (https://www.youtube.com/watch?v=p7YXXieghto)
 
-![Image] (https://paspahang.org/wp-content/uploads/2019/03/get-the-marvelous-funny-looking-cat-memes-of-funny-looking-cat-memes.jpg)
+![Image]:[1]
+.
+.
+[1]:(https://paspahang.org/wp-content/uploads/2019/03/get-the-marvelous-funny-looking-cat-memes-of-funny-looking-cat-memes.jpg)
