@@ -8,3 +8,18 @@
 [Link](https://www.youtube.com/watch?v=p7YXXieghto)
 >
 ![Image](https://paspahang.org/wp-content/uploads/2019/03/get-the-marvelous-funny-looking-cat-memes-of-funny-looking-cat-memes.jpg)
+
+---
+*A list of bread I enjoy*
+* Milk bread
+* Sourdough bread
+* Brioche 
+* Probably more I don't know the name of 
+>
+*A list of things I should pick up from the store*
+1. Milk
+2. Cereal
+3. Command strips
+4. Batteries
+>
+`System.out.println("Hello, World")`
