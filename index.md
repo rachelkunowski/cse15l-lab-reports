@@ -9,7 +9,6 @@
 * Milk bread
 * Sourdough bread
 * Brioche 
-* Probably more I don't know the name of 
 ---
 *A list of things I should pick up from the store*
 1. Milk
